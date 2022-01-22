@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base/Base.iml" filepath="$PROJECT_DIR$/Base/Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinecraftModule/MinecraftModule.iml" filepath="$PROJECT_DIR$/MinecraftModule/MinecraftModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test-Module/Test-Module.iml" filepath="$PROJECT_DIR$/Test-Module/Test-Module.iml" />
+    </modules>
+  </component>
+</project>
